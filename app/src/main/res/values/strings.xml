@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="tic_tac_toe">Tic-Tac-Toe</string>
+    <string name="play">Play</string>
+    <string name="game_ranking">Game Ranking</string>
+    <string name="you_records">You Records</string>
+    <string name="close">Close</string>
+    <string name="show_in_pie_chart">Show in pie chart</string>
+    <string name="you_o_vs_cpu_x">You O vs CPU X</string>
+    <string name="button">Button</string>
+    <string name="Continue">Continue</string>
+</resources>
